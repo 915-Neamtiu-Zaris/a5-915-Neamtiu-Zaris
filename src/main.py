@@ -44,4 +44,3 @@ if __name__ == '__main__':
 
     except Exception as ex:
         print("Error: ", ex)
-        #traceback.print_exc()
